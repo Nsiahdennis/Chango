@@ -4,3 +4,4 @@ The project was basically a helpful one  ![TT] (https://github.com/Nsiahdennis/r
 
 
 it has engaged me alot and gearing me towards my career and the better future that im wanting to become
+i used the the my basic knowledge in javaScript and the idea of react native to employed the entire project
